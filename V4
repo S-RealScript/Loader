@@ -99,5 +99,5 @@ animateIn()
 Beta.MouseButton1Click:Connect(function()
   animateOut()
   wait(0.1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/S-RealScript/KelvinScript/0a35d66e21a9883a71dd14409a6c5b626e555ee8/Roblox"))()
+https://raw.githubusercontent.com/S-RealScript/PremiumV4/refs/heads/main/V4?token=GHSAT0AAAAAAC2UU7U3PN3XR3L3MT6V35E4Z2KNKWA
 end)
